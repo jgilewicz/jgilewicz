@@ -22,7 +22,6 @@ Q-value vs. critic confidence) · safe sim-to-real deployment.
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B_17%2F20-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
 ### Deep Learning & Robot Learning (PyTorch)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-111111?style=for-the-badge)
@@ -32,10 +31,14 @@ Q-value vs. critic confidence) · safe sim-to-real deployment.
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim%2FLab-111111?style=for-the-badge&logo=nvidia&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo_%2F_MJX-111111?style=for-the-badge)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-111111?style=for-the-badge)
+
+### Robotics
 ![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-111111?style=for-the-badge&logo=ROS&logoColor=white)
 
 ### Deployment (Edge / Real-Time)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-111111?style=for-the-badge&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-111111?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Tooling & MLOps
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
