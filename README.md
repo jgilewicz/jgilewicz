@@ -35,7 +35,7 @@ Q-value vs. critic confidence) · safe sim-to-real deployment.
 ### Robotics
 ![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-111111?style=for-the-badge&logo=ROS&logoColor=white)
-![cuRobo](https://img.shields.io/badge/cuRobo%2FLab-111111?style=for-the-badge&logo=nvidia&logoColor=white)
+![cuRobo](https://img.shields.io/badge/cuRobo-111111?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Deployment (Edge / Real-Time)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-111111?style=for-the-badge&logo=onnx&logoColor=white)
