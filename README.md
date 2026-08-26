@@ -47,6 +47,11 @@ Q-value vs. critic confidence) · safe sim-to-real deployment.
 ![uv](https://img.shields.io/badge/uv-111111?style=for-the-badge)
 ![Ruff](https://img.shields.io/badge/Ruff-111111?style=for-the-badge)
 ![pytest](https://img.shields.io/badge/pytest-111111?style=for-the-badge&logo=pytest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### LLM & Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
 
 ---
 
