@@ -1,74 +1,70 @@
-# Hi 👋
+<div align="center">
 
-**Robotics & Physical AI Engineer** - Reinforcement Learning, Robot Learning & Autonomous Systems.
+# Jakub Gilewicz
 
-Background in control systems, embedded engineering and machine learning.
-Currently pursuing an MSc in **Trustworthy AI Systems**, working at the intersection of
-**uncertainty-aware reinforcement learning, sim-to-real transfer and explainable robot policies**.
+**Robotics &amp; Physical AI Engineer**
+
+Uncertainty-aware reinforcement learning · Imitation learning · Sim-to-real transfer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-gilewicz-9a4342284/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-111111?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/W1ndrunn3rr)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=maildotru&logoColor=white)](mailto:jakubgilewicz@wp.pl)
+
+</div>
 
 ---
 
-## 🔬 Research & Development
+MSc student in **Trustworthy AI Systems** at Wrocław University of Science and Technology.
+Junior Physical AI Engineer at xBerry. Background in automation and control engineering.
 
-**Focus:** uncertainty estimation in evolutionary reinforcement learning (fitness estimation via
-uncertainty-aware surrogates) · explainability for RL / IL / BC policies (trajectory attribution,
-Q-value vs. critic confidence) · safe sim-to-real deployment.
+I work on one question:
 
---- 
+> **When should a learned policy not be trusted, and can that be measured at runtime?**
 
-## Core Stack
+---
 
-### Languages
+## Publications
+
+**Uncertainty-Aware Surrogate-Assisted Evolutionary Reinforcement Learning in Expensive Low-Data Regimes**
+`ECML PKDD LFSD 2026 Workshop`
+Population gating driven by a surrogate that estimates uncertainty over critic value predictions.
+
+**Do Edges Save Energy? Classical Preprocessing for Efficient ACT-Based Robot Learning**
+`ISW 2026`
+Ablation of visual preprocessing for Action Chunking Transformers.
+
+**SAR Land Cover Classification: Do Heavyweight Deep Learning Models Justify Their Cost Against Lightweight Architecture?**
+`EUSAR 2026`
+Memory-efficient deep learning for synthetic aperture radar data.
+
+---
+
+## Stack
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B_17%2F20-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Deep Learning & Robot Learning (PyTorch)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-111111?style=for-the-badge)
-![LeRobot](https://img.shields.io/badge/HuggingFace_LeRobot-111111?style=for-the-badge&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-111111?style=for-the-badge&logo=huggingface&logoColor=white)
+![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-111111?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### Simulation & Sim-to-Real
-![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim%2FLab-111111?style=for-the-badge&logo=nvidia&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo_%2F_MJX-111111?style=for-the-badge)
-![Gymnasium](https://img.shields.io/badge/Gymnasium-111111?style=for-the-badge)
+</div>
 
-### Robotics
-![cuRobo](https://img.shields.io/badge/cuRobo-111111?style=for-the-badge&logo=nvidia&logoColor=white)
-![ZeroMQ](https://img.shields.io/badge/ZeroMQ-111111?style=for-the-badge&logo=zeromq&logoColor=white)
+<br>
 
-### Deployment (Edge / Real-Time)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-111111?style=for-the-badge&logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-111111?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Tooling & MLOps
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-111111?style=for-the-badge&logo=weightsandbiases&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-111111?style=for-the-badge)
-![uv](https://img.shields.io/badge/uv-111111?style=for-the-badge)
-![Ruff](https://img.shields.io/badge/Ruff-111111?style=for-the-badge)
-![pytest](https://img.shields.io/badge/pytest-111111?style=for-the-badge&logo=pytest&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### LLM & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
+| | |
+|---|---|
+| **Languages** | Python · C++ |
+| **Deep learning** | PyTorch · JAX · Hugging Face (LeRobot, Transformers, Diffusers) |
+| **Simulation** | NVIDIA Isaac Sim · Isaac Lab · Newton · MuJoCo / MJX · Gymnasium |
+| **Deployment** | ONNX Runtime · TensorRT · Docker |
+| **Tools** | Hydra · Weights &amp; Biases · MLflow · uv · Ruff · pytest |
+| **Agentic AI** | LangChain · LangGraph |
 
 ---
 
-## Interests
-
-- Reinforcement Learning & Imitation Learning
-- Uncertainty estimation & Explainable AI for control policies
-- Sim-to-Real transfer & NVIDIA Isaac Sim/Lab environments
-- GPU-accelerated RL 
-- Real-time deep learning deployment on edge hardware
-- Autonomous systems & Safe / Trustworthy AI
-
----
-
-## How to Reach Me
-
-- **E-mail:** `jakubgilewicz@wp.pl`
-- **LinkedIn:** `https://www.linkedin.com/in/jakub-gilewicz-9a4342284/`
-
-Always open to feedback, collaboration, and learning from others. Thanks for stopping by!
+<div align="center">
+<sub>Open to collaboration on trustworthy robot learning.</sub>
+</div>
